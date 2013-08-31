@@ -1,5 +1,5 @@
 ##Required
-* #####python  
+* ####python####  
 测试有没有python环境：  
 Open a command prompt window and type in `python` and press return. If you find yourself in a python shell then you're lucky. If you don't then you'll either need to [install python](http://docs.python.org/2/using/windows.html) and/or configure your path.
 * ####django  
@@ -25,8 +25,8 @@ First, you need to configure the INSTALLED_APP to enable the admin function, it'
 Write urls in projectdirectory and write views in appdirectory and make a template directory in appdirectory and in that directory make a directory named as appdirectoryname, put the template files in that.
 * #### Add some style  
 Make a directory in appdirectory named static and put style files in that. When you want use style files in some template files, these are you need to-do:  
-> At the first line in template file, write this `{% load staticfiles %}`
-> You can use static files through link like `{% static 'the path in static directory' %}`  
+	> At the first line in template file, write this `{% load staticfiles %}`  
+	> You can use static files through link like `{% static 'the path in static directory' %}`  
 
 
 #####reference: <http://www.netmagazine.com/tutorials/get-started-django>

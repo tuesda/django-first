@@ -6,6 +6,9 @@ Open a command prompt window and type in `python` and press return. If you find 
 测试有没有django环境：   
 Type `python -c 'import django'`in the shell prompt. Make sure you can run this Or you'll need to install [django](https://docs.djangoproject.com/en/dev/topics/install/)
   
+##General steps of django development  
+Head -> write models(most important) -> write urls -> write views -> write templates -> write styles -> NULL
+
   
 ##Main steps of django development
 * <h4>Start the project</h4>  

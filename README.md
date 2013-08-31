@@ -6,4 +6,7 @@ Open a command prompt window and type in `python` and press return. If you find 
 测试有没有django环境：   
 Type `python -c 'import django'`in the shell prompt. Make sure you can run this Or you'll need to install [django](https://docs.djangoproject.com/en/dev/topics/install/)
   
-##
+  
+##Main steps
+* Start the project:  
+    nihao should be code

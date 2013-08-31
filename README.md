@@ -1,5 +1,5 @@
 ##Required
-* ####python  
+* #####python  
 测试有没有python环境：  
 Open a command prompt window and type in `python` and press return. If you find yourself in a python shell then you're lucky. If you don't then you'll either need to [install python](http://docs.python.org/2/using/windows.html) and/or configure your path.
 * ####django  
@@ -29,5 +29,5 @@ Make a directory in appdirectory named static and put style files in that. When 
 > You can use static files through link like `{% static 'the path in static directory' %}`  
 
 
-#####reference:<http://www.netmagazine.com/tutorials/get-started-django>
+#####reference: <http://www.netmagazine.com/tutorials/get-started-django>
 
